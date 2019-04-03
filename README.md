@@ -29,4 +29,4 @@ From one techie, to another.
 # Providing payments solutions for renowned brands.
 Rather big or small, businesses of every kind trust Yuansfer for their payments.
 
-Having trouble with Pages? Check out our [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [contact support](https://www.yuansfer.com/contact-us) and we’ll help you sort it out.
