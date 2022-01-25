@@ -1,4 +1,4 @@
-![Yuansfer Logo](https://www.yuansfer.com/wp-content/uploads/2019/03/logo.png)
+![Pockyt Logo](https://pockyt.io/app/uploads/2021/11/logo.svg)
 
 # Solving all of your payment needs with a single solution.
 A friction-free global payment solution equipped to
@@ -29,4 +29,4 @@ From one techie, to another.
 # Providing payments solutions for renowned brands.
 Rather big or small, businesses of every kind trust Yuansfer for their payments.
 
-Having trouble with Pages? Check out our [contact support](https://www.yuansfer.com/contact-us) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [contact support](https://pockyt.io/contact/) and we’ll help you sort it out.
